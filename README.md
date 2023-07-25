@@ -1,5 +1,5 @@
 # OpenAI_powered_Voicebot_for_CancerPatients
-Using APIs of OpenAI, a functional VOICE-BASED BOT capable of understanding patient queries, generating relevant responses, and interacting with patients through a speech from the comfort of their own homes at any time is created.
+Using APIs of OpenAI, a functional VOICE-BASED BOT is created which is capable of understanding patient queries, generating relevant responses, and interacting with patients through speech from the comfort of their own homes at any time.
 
 
 # Flowchart for the script
